@@ -1,7 +1,7 @@
 # 🧠 Predicción de riesgo de trastornos de salud mental a partir de factores sociales y laborales
 
 **Autor:** Dulce Tapia
-**Herramientas:** Pythom, GitHub  
+**Herramientas:** Python, GitHub  
 **Fecha:** Julio 2025
 
 ## 📌 Descripción general del proyecto
@@ -40,9 +40,12 @@ Conclusión: el modelo es muy eficaz detectando a quienes sí necesitan tratamie
 Las variables más influyentes fueron: work_interfere, family_history, Age, y benefits. 
 
 ## 📁 Project Structure
-data/survey.csv
+Data/survey.csv 
+Requirements/requirements.txt 
+Notebook/ Prediccion_Salud_Mental.ipynb
+        / prediccion_salud_mental.py
 
 ## 🚀 Cómo usar este repositorio
-1. Clona el repositorio: git clone https://github.com/
+1. Clona el repositorio: git clone https://github.com/Dulce-Tapia/Prediccion-de-riesgos-de-transtornos-de-salud-mental.git
 2. Instala las dependencias: pip install -r requirements.txt
 3. Abre el notebook y ejecuta cada celda paso a paso.
